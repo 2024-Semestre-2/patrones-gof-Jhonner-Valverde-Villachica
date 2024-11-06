@@ -1,8 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AKKt0pfV)
-# [NOMBRE DEL PROYECTO]
-### Nombre y carné de los integrantes: 
+# [Diseño de Software - Investigación #2]
+### Jhonner Valverde Villachica - 2021039745
 
-
-### Estado del proyecto:
-### Enlace del video:
-Recordar que el video debe ser público para ser visto por el profesor
+### Enlace a la presentación: https://www.canva.com/design/DAGVrnYBJtI/9HD2NBJYmZDeaEdcjHa5TQ/edit?utm_content=DAGVrnYBJtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
